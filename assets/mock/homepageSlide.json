@@ -1,0 +1,40 @@
+{
+    "code": 200,
+    "payload": {
+      "slides": [
+        {
+          "image": "https://s2.ax1x.com/2020/03/03/349r4J.jpg",
+          "order": 1,
+          "id": 1,
+          "url": "/post/1",
+          "add_time": "2020-03-01T02:14:10",
+          "title": "Slide1"
+        },
+        {
+          "image": "https://s2.ax1x.com/2020/03/03/349r4J.jpg",
+          "order": 2,
+          "id": 2,
+          "url": "/post/2",
+          "add_time": "2020-03-01T02:14:20",
+          "title": "Slide2"
+        },
+        {
+          "image": "https://s2.ax1x.com/2020/03/03/349r4J.jpg",
+          "order": 3,
+          "id": 4,
+          "url": "/post/2",
+          "add_time": "2020-03-01T02:14:20",
+          "title": "Slide4"
+        },
+        {
+          "image": "https://s2.ax1x.com/2020/03/03/349r4J.jpg",
+          "order": 4,
+          "id": 3,
+          "url": "/post/2",
+          "add_time": "2020-03-01T02:14:20",
+          "title": "Slide3"
+        }
+      ]
+    },
+    "request": "/api/v1/action/get_homepage_slide"
+  }

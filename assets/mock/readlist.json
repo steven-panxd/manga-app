@@ -1,0 +1,115 @@
+{
+    "code": 200,
+    "payload": {
+        "posts": [
+            {
+                
+                "author": "NonAuthor",
+                "id": 6,
+                "view_num": 0,
+                "title": "uploaded title",
+                "category": {
+                    "add_time": "2020-03-05T23:50:07",
+                    "id": 1,
+                    "name": "Manga"
+                },
+                "cover_image": "https://wx1.sinaimg.cn/mw1024/0065lJGuly1g4zqg5sd9wj30u00u0q6c.jpg",
+                "add_time": "2020-03-07T07:46:56",
+                "read_progress": 0.5
+            },
+            {
+                
+                "author": "NonAuthor",
+                "id": 7,
+                "view_num": 0,
+                "title": "uploaded title",
+                "category": {
+                    "add_time": "2020-03-05T23:50:07",
+                    "id": 1,
+                    "name": "Manga"
+                },
+                "cover_image": "https://s2.ax1x.com/2020/03/03/349r4J.jpg",
+                "add_time": "2020-03-07T07:46:56",
+                "read_progress": 0.5
+            },
+            {
+                
+                "author": "NonAuthor",
+                "id": 5,
+                "view_num": 0,
+                "title": "uploaded title",
+                "category": {
+                    "add_time": "2020-03-05T23:50:07",
+                    "id": 1,
+                    "name": "Manga"
+                },
+                "cover_image": "",
+                "add_time": "2020-03-07T07:36:30",
+                "read_progress": 0.5
+            },
+            {
+                
+                "author": "No Author",
+                "id": 1,
+                "view_num": 0,
+                "title": "This is the title1",
+                "category": {
+                    "add_time": "2020-03-05T23:50:07",
+                    "id": 1,
+                    "name": "Manga"
+                },
+                "cover_image": "https://s2.ax1x.com/2020/03/03/349r4J.jpg",
+                "add_time": "2020-03-04T23:26:08",
+                "read_progress": 0.5
+            },
+            {
+                
+                "author": "Anonymous",
+                "id": 2,
+                "view_num": 0,
+                "title": "This is the title2",
+                "category": {
+                    "add_time": "2020-03-05T23:50:07",
+                    "id": 1,
+                    "name": "Manga"
+                },
+                "cover_image": "https://s2.ax1x.com/2020/03/03/349r4J.jpg",
+                "add_time": "2020-03-04T23:26:08",
+                "read_progress": 0.5
+            },
+            {
+                
+                "author": "No Author",
+                "id": 3,
+                "view_num": 0,
+                "title": "This is the title3",
+                "category": {
+                    "add_time": "2020-03-05T23:50:07",
+                    "id": 1,
+                    "name": "Manga"
+                },
+                "cover_image": "https://s2.ax1x.com/2020/03/03/349r4J.jpg",
+                "add_time": "2020-03-04T23:26:08",
+                "read_progress": 0.5
+            },
+            {
+                
+                "author": "Anonymous",
+                "id": 4,
+                "view_num": 0,
+                "title": "This is the title4",
+                "category": {
+                    "add_time": "2020-03-05T23:50:07",
+                    "id": 1,
+                    "name": "Manga"
+                },
+                "cover_image": "https://s2.ax1x.com/2020/03/03/349r4J.jpg",
+                "add_time": "2020-03-04T23:26:08",
+                "read_progress": 0.5
+            }
+        ],
+        "total_page": 1,
+        "current_page": 1
+    },
+    "request": "/api/v1/posts"
+}

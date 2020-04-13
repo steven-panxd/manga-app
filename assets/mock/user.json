@@ -1,0 +1,21 @@
+{
+    "code": 200,
+    "payload": {
+        "user": {
+            "email": "hello20011@163.com",
+            "bio": "",
+            "id": 1,
+            "avatar": "https://wx1.sinaimg.cn/mw1024/0065lJGuly1g4zqg5sd9wj30u00u0q6c.jpg",
+            "identity": {
+                "add_time": "2020-03-05T06:52:29",
+                "id": 4,
+                "name": "ADMINISTRATOR"
+            },
+            "coin_num": 1.0,
+            "post_num": 3,
+            "add_time": "2020-03-04T22:57:33",
+            "username": "hello20011"
+        }
+    },
+    "request": "/api/v1/user"
+}
